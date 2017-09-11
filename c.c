@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <conio.h>
-int main()
+long main()
 {
-    int num;
-    int num1;
+    long num;
+    long num1;
     printf("Введите первое число\n");
-        scanf("%ds",num);
+        scanf("%d",num);
     printf("Введите второе число\n");
         scanf("%d",num1);
     if (num>num1)
