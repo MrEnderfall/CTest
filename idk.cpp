@@ -2,7 +2,7 @@
 int main()
 {
     using namespace std;
-    cout << "IDK";
+    cout << "дурацкий русский! ЮНИКОД ЭДИШОН";
     cout << endl;
     cout << "YOBA ETO TI";
     return 0;
